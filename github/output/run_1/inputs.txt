@@ -1,0 +1,17 @@
+clobber     False 
+runid       1 
+test_m5     26.100 27.400 27.500 26.800 26.100 24.900 
+train_m5    26.100 27.400 27.500 26.800 26.100 24.900 
+test_mcut   26.100 27.400 27.500 25.000 26.100 24.900 
+train_mcut  26.100 27.400 27.500 25.000 26.100 24.900 
+force_idet  True 
+force_gridet True 
+test_N      90000 
+train_N     500000 
+cmnn_minNc  3 
+cmnn_minNN  10 
+cmnn_ppf    0.680 
+cmnn_rsel   2 
+cmnn_ppmag  False 
+cmnn_ppclr  True 
+stats_COR   1.50 
