@@ -1,0 +1,5 @@
+File initiated: 2020-07-14 23:44:13.395219
+Start cmnn_run.run():  2020-07-14 23:44:13.398664
+Start cmnn_catalog.make_test_and_train(): 2020-07-14 23:44:13.401838
+Start cmnn_photoz.make_zphot(): 2020-07-14 23:46:15.718394
+Start cmnn_analysis.make_stats_file(): 2020-07-15 00:12:39.569115
